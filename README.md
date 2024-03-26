@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **monzurulislam997@gmail.com**
 
-- 📄 Know about my experiences [www.facebook.com/monzurul.3152](www.facebook.com/monzurul.3152)
+- 📄 Know about my experiences [www.facebook.com/monzurul.3152](/monzurul.3152)
 
 - ⚡ Fun fact **I code even when i am sleeping⌨️**
 
